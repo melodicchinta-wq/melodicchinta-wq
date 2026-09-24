@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Profile Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Mela Aulia Syarifah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
