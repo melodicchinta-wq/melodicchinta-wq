@@ -19,7 +19,7 @@
 ### 🧸 About Me
 
 * 🎓 Lulusan SMK jurusan **Pengembangan Perangkat Lunak dan Game (PPLG)**.
-* 💻 Lagi fokus ngembangin skill **Front-End Web Development** & **UI/UX Design** dengan ingin mengikuti UKM Tahu Ngoding
+* 💻 Lagi fokus ngembangin skill **Front-End Web Development** & **UI/UX Design** serta berencana aktif di UKM tahungoding 
 * 🎧 Kalo ngoding harus sambil dengerin musik apa aja yang penting yang lagi tren di tik tok mau kpop sad dll biar makin fokus~ 🎶
 * 🌸 Suka banget bikin web yang punya fitur **Light/Dark Mode** meskipun belum di hosting!
 
