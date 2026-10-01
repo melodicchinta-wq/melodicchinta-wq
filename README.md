@@ -20,3 +20,104 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/melodicchinta-wq/melodicchinta-wq/snake-output/snake.svg" alt="Snake animation" />
 
 
+<div align="center">
+
+# 🧋 Hi hi~! I'm [Nama Kamu]! ✨
+
+*“Turning coffee into code and ideas into cute interfaces!”* 💖
+
+🎮 **Developer & Design Enthusiast** 
+✨ Suka ngoding web, bikin desain cantik, dan ngulik teknologi baru!
+
+</div>
+
+<br>
+
+---
+
+### 🧸 About Me
+
+* 🎓 Lulusan SMK jurusan **Pengembangan Perangkat Lunak dan Game (PPLG)**.
+* 💻 Lagi fokus ngembangin skill **Front-End Web Development** & **UI/UX Design**.
+* 🎨 Hobi bikin layout desain di **Figma** & **Canva** sebelum dieksekusi jadi kode.
+* 🎧 Suka ngoding sambil dengerin musik bernuansa *sad vibes* biar makin fokus~ 🎶
+* 🌸 Suka banget bikin web yang punya fitur **Light/Dark Mode**!
+
+---
+
+### 🎀 Tech Stack & Cute Tools
+
+<div align="center">
+
+#### 💻 Code & Languages
+![HTML5](https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=333)
+![C#](https://img.shields.io/badge/C%23-E2F0CB?style=for-the-badge&logo=c-sharp&logoColor=333)
+
+#### 🚀 Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF8B94?style=for-the-badge&logo=laravel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-C7CEEA?style=for-the-badge&logo=figma&logoColor=333)
+![Canva](https://img.shields.io/badge/Canva-99C1DE?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+### 🍧 Featured Projects
+
+<details>
+<summary><b>💳 Payment Status Tracking Web App (Click to open! ✨)</b></summary>
+<br>
+
+* Web antarmuka cek status pembayaran ala portal kampus yang estetik.
+* Memiliki fitur **Light/Dark Mode Switcher** yang *smooth*.
+* **Tech Used:** `HTML` • `CSS` • `JavaScript`
+* 🔗 [Lihat Project](https://github.com/USERNAME/project-1)
+</details>
+
+<details>
+<summary><b>🌐 Laravel Web Application (Click to open! ✨)</b></summary>
+<br>
+
+* Aplikasi web fullstack untuk sistem informasi dan manajemen data.
+* **Tech Used:** `Laravel` • `PHP` • `MySQL`
+* 🔗 [Lihat Project](https://github.com/USERNAME/project-2)
+</details>
+
+<details>
+<summary><b>🎮 Game Prototype Project (Click to open! ✨)</b></summary>
+<br>
+
+* Prototip game interaktif hasil dari kegiatan proyek industri / PKL.
+* **Tech Used:** `C#`
+* 🔗 [Lihat Project](https://github.com/USERNAME/project-3)
+</details>
+
+---
+
+### 🌸 My Little Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine)
+
+</div>
+
+---
+
+### 💌 Let's Be Friends!
+
+> *"Belajar hal baru setiap hari, satu baris kode demi satu baris kode!"* 🐾
+
+- 💌 **Email:** `emailkamu@gmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)
+- 🎨 **Portfolio/Design:** [Link Figma atau Canva kamu]
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHc3ZndqM3Q0Zjh3Njd6ZXZna3FpNW9tdHJ5Z3E4b25zbWVvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="100px" alt="cute cat GIF">
+</div>
